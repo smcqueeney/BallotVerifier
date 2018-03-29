@@ -24,10 +24,7 @@ import java.util.Base64;
 //import sun.misc.BASE64Encoder;
 //import sun.misc.BASE64Decoder;
 
-/**
- *
- * @author bryank@cs.uri.edu
- */
+
 public class BallotVerifier {
 	public static PublicKey loadPublicKey(String fileName) throws IOException, NoSuchAlgorithmException, InvalidKeySpecException {
 			// Read public key
