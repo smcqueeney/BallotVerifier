@@ -19,10 +19,6 @@ import java.util.logging.Logger;
 import java.util.Base64;
 
 
-
-/**
- * @author Kevin Bryan
- */
 public class Ballot {
 
 	List<String> options = new ArrayList<>();
